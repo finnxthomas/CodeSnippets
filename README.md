@@ -1,7 +1,7 @@
 # CodeSnippets
 Proof of knowledge, style, etc. via code examples for use in resume/interviews.
 
-### SDP Parsing:
+### SDPParser:
 This C++ project implemented a open source Session Description Protocol (SDP) parser, sdp-transform, to fit with the the company's parsing needs. SDP is a text format for describing IP video. The original library parsed SDP into Json, however I created an C++ SDP class in SDP.h and SDPEnums.h using the documentation spec RFC 4566 (https://datatracker.ietf.org/doc/html/rfc4566) to save any SDP files we encounter into an easy to use class. The interface I created in SDPParser.cpp makes this conversion possible.
 
 ### NmosNodeServer:
