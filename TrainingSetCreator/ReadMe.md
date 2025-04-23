@@ -1,0 +1,1 @@
+Documentation is available via Notion: https://www.notion.so/finnxthomas/18a6f6c6b6f742eeba8c21fc743a8a95?v=33ffb056bc1642159febf080bea98a15&pvs=4 
